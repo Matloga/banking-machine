@@ -1,1 +1,1 @@
-Thia is the banking application
+This is the banking application
